@@ -1452,7 +1452,7 @@ html{
 
 .hero-slider .single-slider {
 	height: auto;
-	background-image: url('/images/mtshop.png');
+	background-image: url('images/mtshop.png');
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
